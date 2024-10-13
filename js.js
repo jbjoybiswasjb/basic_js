@@ -18,6 +18,10 @@
 */
 
 
+// Const, Let.
+// Const have to use when variable value have to update but not replace. Usually const used for non-primitive data type array, object.
+
+
 // Variable.
 // Number, String, Boolean, Array, Object, Null, Undefined.
 
